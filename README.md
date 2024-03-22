@@ -2,6 +2,11 @@
 
 ## Description
 
+  Employee Tracker was built to produce a simple 'employee tracker' or 'manager' that describes and records 
+  all employees names, roles, departments, and salary. For reference, this build demonstrates how to setup .sql
+  sources, how to use an .env file accompanied by a connection.js, how to setup SQL commands in functions,  
+  how to install and run a SQL application.
+
 
 
 
@@ -54,11 +59,9 @@ To contribute:
 
 ## Demo
 
-![image](Assets/note-taker-demo.gif)
-
 [Employee Tracker Demo][def]
 
-[def]: 
+[def]: https://drive.google.com/file/d/1oiR2WoUZyjpDHB5k0lEZAgmWsfikbd1p/view?usp=sharing
 
 
 
